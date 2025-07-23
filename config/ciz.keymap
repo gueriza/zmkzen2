@@ -16,9 +16,9 @@
         default_layer {
             display-name = "COL";
 // --------------------------------------------------------------------------------
-// |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BSPC |
-// | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
-// | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ESC  |
+// |  TAB |  Q  |  W  |  F  |  P  |  G  |   |  J  |  L   |  U  |  Y  |  :  | BSPC |
+// | CTRL |  A  |  R  |  S  |  T  |  D  |   |  H  |  N   |  E  |  I  |  O  |  DEL   |
+// | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  K  |  M   |  ,  |  .  |  /  | ESC  |
 //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
             bindings = <
 &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSPC
